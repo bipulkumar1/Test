@@ -13,3 +13,9 @@ def mul(a,b)
     return d
 
 print("multiplication function")
+
+def mod(a,b)
+    e=a/b
+    return e
+
+print("modulus function")
